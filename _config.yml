@@ -6,19 +6,23 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Polymathematics
 
 # Your name to show in the footer
-author: Some Person
+author: Adam Taggart, MSc
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  The Story So Far: "aboutme"
+  Martial Arts:
+  Science:
+  Design and Engineering:
+  Exercise:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Beautiful Jekyll creator link: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -41,18 +45,18 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#  facebook: deanattali
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+  youtube: That Martial Arts Guy
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: tmaguk
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
